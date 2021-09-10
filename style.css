@@ -196,7 +196,7 @@ body { margin: 0; font-family: 'Open Sans', sans-serif; cursor: default;}
   transition: all 350ms ease-in;
   transform: translateY(20px);
 }
-
+ 
 .project:hover .project__description {
   opacity: 0.8;
   transform: translateY(0);
