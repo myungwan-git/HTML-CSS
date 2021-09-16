@@ -36,7 +36,7 @@ document.addEventListener('scroll', ()=> {
     home.style.opacity = opa;
 });
 
-
+ 
 
 
 function scrollIntoView(selector) {
